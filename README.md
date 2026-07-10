@@ -76,14 +76,14 @@ _Building scalable infrastructure, intelligent systems, and impactful products._
 <tr>
 <td width="60%" valign="top">
 
-|                |                                                      |
-| -------------- | ---------------------------------------------------- |
-| **Stack**      | FastAPI · MongoDB · Docker · OpenRouter · AssemblyAI |
-| **CI/CD**      | GitHub Actions automated deployment                  |
-| **Security**   | OTP Authentication                                   |
-| **AI Feature** | ZentriXA voice-to-action AI assistant                |
+|                 |                                                                                |
+| --------------- | ------------------------------------------------------------------------------ |
+| **Stack**       | Python (FastAPI) · Node.js (Express) · React · MongoDB                         |
+| **Roles**       | Developer · Admin 
+| **Integrations**| OpenAI (GPT-4o-mini) · AssemblyAI · Razorpay · Brevo                           |
+| **CI/CD**       | GitHub Actions & Docker (docker.yml) pipeline to VPS via PM2                    |
 
-[![Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github)](https://github.com/PROTOX11/Task_manager)
+<a href="https://github.com/PROTOX11/Task_manager"><img src="https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white" style="border-radius: 10px;" height="35" /></a>&nbsp;&nbsp;<a href="https://tickzen.in.net/"><img src="https://img.shields.io/badge/Live-10B981?style=flat-square&logo=google-chrome&logoColor=white" style="border-radius: 10px;" height="35" /></a>
 
 </td>
 <td width="40%" valign="top" align="center">
@@ -102,13 +102,14 @@ _Building scalable infrastructure, intelligent systems, and impactful products._
 <tr>
 <td width="60%" valign="top">
 
-|           |                                                |
-| --------- | ---------------------------------------------- |
-| **Stack** | Spring Boot · MySQL · OAuth2 · Spring Security |
-| **Scale** | Multi-role healthcare platform                 |
-| **Roles** | Patient · Mentor · Doctor ecosystem            |
+|                 |                                                                              |
+| --------------- | ---------------------------------------------------------------------------- |
+| **Stack**       | Spring Boot · MySQL · OAuth2 · Spring Security · Docker                       |
+| **Architecture**| REST API (15+ endpoints) · JWT Authentication                                |
+| **Deployment**  | Deployed on Railway via GitHub Actions CI/CD                                 |
+| **Roles**       | Patient · Mentor · Doctor ecosystem                                          |
 
-[![Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github)](https://github.com/PROTOX11/MedTrackFit)
+<a href="https://github.com/PROTOX11/MedTrackFit"><img src="https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white" style="border-radius: 10px;" height="35" /></a>&nbsp;&nbsp;<a href="https://medtrackfit.in.net"><img src="https://img.shields.io/badge/Live-10B981?style=flat-square&logo=google-chrome&logoColor=white" style="border-radius: 10px;" height="35" /></a>
 
 </td>
 <td width="40%" valign="top" align="center">
@@ -127,7 +128,14 @@ _Building scalable infrastructure, intelligent systems, and impactful products._
 <tr>
 <td width="60%" valign="top">
 
-[![Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github)](https://github.com/PROTOX11/VARTALAP)
+|             |                                                  |
+| ----------- | ------------------------------------------------ |
+| **Stack**   | MongoDB · Express.js · React.js · Node.js (MERN) |
+| **Feature** | Real-time chat app (via WebSockets/Socket.io)    |
+| **Hosting** | VPS (via PM2)                                    |
+| **CI/CD**   | GitHub Actions automated deployment to internet  |
+
+<a href="https://github.com/PROTOX11/VARTALAP"><img src="https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white" style="border-radius: 10px;" height="35" /></a>&nbsp;&nbsp;<a href="https://vartalap.in.net"><img src="https://img.shields.io/badge/Live-10B981?style=flat-square&logo=google-chrome&logoColor=white" style="border-radius: 10px;" height="35" /></a>
 
 </td>
 <td width="40%" valign="top" align="center">
@@ -151,9 +159,9 @@ _Building scalable infrastructure, intelligent systems, and impactful products._
 | **Stack**      | React · FastAPI · MongoDB · OpenRouter · Docker |
 | **AI Feature** | Personalized outfit recommendations & style AI  |
 | **Design**     | Luxury glassmorphism UI with premium aesthetics |
-| **CI/CD**      | GitHub Actions automated deployment             |
+| **Hosting**      | VPS                                             |
 
-[![Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github)](https://github.com/PROTOX11/Aura-Elysian)
+<a href="https://github.com/PROTOX11/Aura-Elysian"><img src="https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white" style="border-radius: 10px;" height="35" /></a>&nbsp;&nbsp;<a href="https://auraelysian.shop"><img src="https://img.shields.io/badge/Live-10B981?style=flat-square&logo=google-chrome&logoColor=white" style="border-radius: 10px;" height="35" /></a>
 
 </td>
 <td width="40%" valign="top" align="center">
@@ -166,16 +174,35 @@ _Building scalable infrastructure, intelligent systems, and impactful products._
 
 ## 💼 Experience
 
-**Software Developer Intern — Agrasar Soft Consultancy** _(Nov 2024 – May 2025)_
+<table>
+<tr>
+<td width="50%" valign="top">
+<div style="border: 1px solid #30363d; border-radius: 10px; padding: 15px; background: #0d1117;">
 
-- Built ERP platform for coaching institutes
-- Designed REST APIs and authentication systems
-- Managed GitHub Actions CI/CD deployments
+### IBM SkillsNetwork (PBEL)
+**Virtual Intern** _(July 2025 – Aug 2025)_
 
-**IBM SkillsNetwork (PBEL) — Virtual Intern**
+- Completed an IBM-certified virtual internship covering backend API design, RESTful service architecture, and mobile integration patterns.
+- Gained hands-on exposure to industry-standard development workflows and enterprise-level backend architecture principles aligned with scalable Java-based systems.
 
-- Enterprise web and mobile development
-- Backend architecture and API design
+<a href="https://courses.ibmmooc.skillsnetwork.site/certificates/bc123576e857484babddcbe857a6ba73"><img src="https://img.shields.io/badge/View_Certificate-054ADA?style=flat-square&logo=ibm&logoColor=white" style="border-radius: 10px;" height="30" /></a>
+
+</div>
+</td>
+<td width="50%" valign="top">
+<div style="border: 1px solid #30363d; border-radius: 10px; padding: 15px; background: #0d1117;">
+
+### Agrasar Soft Consultancy
+**Software Developer Intern** _(Nov 2024 – May 2025)_
+
+- Built responsive, reusable UI components in React.js for a full-stack ERP platform used by coaching institutes, integrating REST APIs to display and manage student, staff, and admin data in real time.
+- Implemented role-based UI views and protected routes for 3 user roles (Admin, Staff, Student), improving navigation clarity and cutting onboarding time by ~40% vs. the prior manual workflow.
+- Collaborated with the backend team on JWT-based authentication and session handling, while using Git for version control and Jira for sprint planning and task tracking within a 4-member team.
+
+</div>
+</td>
+</tr>
+</table>
 
 ---
 
