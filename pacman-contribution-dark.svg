@@ -224,8 +224,8 @@
   57.867% { transform: translate(737px,75px) rotate(270deg); }
   58.693% { transform: translate(737px,61px) rotate(270deg); }
   59.52% { transform: translate(737px,47px) rotate(0deg); }
-  60.347% { transform: translate(751px,47px) rotate(0deg); }
-  61.173% { transform: translate(765px,47px) rotate(270deg); }
+  60.347% { transform: translate(751px,47px) rotate(270deg); }
+  61.173% { transform: translate(751px,33px) rotate(0deg); }
   62.0% { transform: translate(765px,33px) rotate(0deg); }
   62.1% { transform: translate(765px,33px) rotate(0deg); }
   90%   { transform: translate(765px,33px) rotate(0deg); }
@@ -401,7 +401,7 @@
 <rect x="718" y="42" width="11" height="11" rx="2" fill="#161b22"/>
 <rect x="732" y="42" width="11" height="11" rx="2" fill="#161b22"/>
 <rect x="746" y="42" width="11" height="11" rx="2" fill="#161b22"/>
-<rect x="760" y="42" width="11" height="11" rx="2" fill="#161b22"/>
+<rect x="760" y="42" width="11" height="11" rx="2" fill="#00ff7f" filter="url(#glow)"/>
 <rect x="32" y="56" width="11" height="11" rx="2" fill="#00ff7f" filter="url(#glow)"/>
 <rect x="46" y="56" width="11" height="11" rx="2" fill="#161b22"/>
 <rect x="60" y="56" width="11" height="11" rx="2" fill="#161b22"/>
