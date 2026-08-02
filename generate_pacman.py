@@ -5,7 +5,7 @@ from datetime import datetime, timedelta, date
 from collections import deque
 
 # ── Config ───────────────────────────────────────────────────────────────────
-USERNAME = os.environ.get("GITHUB_USERNAME", "PROTOX11")
+USERNAME = os.environ.get("GITHUB_USERNAME", "prakashkr2894")
 TOKEN    = os.environ.get("GITHUB_TOKEN", "")
 
 COLS = 53; ROWS = 7; CELL = 11; GAP = 3; STEP = CELL + GAP

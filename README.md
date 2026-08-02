@@ -6,7 +6,7 @@
 
 _Building scalable infrastructure, intelligent systems, and impactful products._
 
-<a href="https://www.linkedin.com/in/protox1142"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" style="border-radius: 10px;" height="40" /></a> <a href="https://prakash-portfolio-beryl.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white" style="border-radius: 10px;" height="40" /></a> <a href="mailto:prakashkr2894@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" style="border-radius: 10px;" height="40" /></a>
+<a href="https://www.linkedin.com/in/protox1142"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" style="border-radius: 10px;" height="40" /></a> <a href="https://www.prakash.click/"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white" style="border-radius: 10px;" height="40" /></a> <a href="mailto:prakashkr2894@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" style="border-radius: 10px;" height="40" /></a>
 
 </div>
 
@@ -54,13 +54,13 @@ _Building scalable infrastructure, intelligent systems, and impactful products._
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=PROTOX11&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff6b6b&currStreakLabel=c9d1d9&sideLabels=c9d1d9&dates=8b949e" style="border-radius: 10px;" />
+<img src="https://streak-stats.demolab.com?user=prakashkr2894&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff6b6b&currStreakLabel=c9d1d9&sideLabels=c9d1d9&dates=8b949e" style="border-radius: 10px;" />
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=PROTOX11&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true" style="border-radius: 10px;" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=prakashkr2894&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true" style="border-radius: 10px;" />
 
 </div>
 
@@ -83,7 +83,7 @@ _Building scalable infrastructure, intelligent systems, and impactful products._
 | **Integrations**| OpenAI (GPT-4o-mini) · AssemblyAI · Razorpay · Brevo                           |
 | **CI/CD**       | GitHub Actions & Docker (docker.yml) pipeline to VPS via PM2                    |
 
-<a href="https://github.com/PROTOX11/Task_manager"><img src="https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white" style="border-radius: 10px;" height="35" /></a>&nbsp;&nbsp;<a href="https://tickzen.in.net/"><img src="https://img.shields.io/badge/Live-10B981?style=flat-square&logo=google-chrome&logoColor=white" style="border-radius: 10px;" height="35" /></a>
+<a href="https://github.com/prakashkr2894/Task_manager"><img src="https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white" style="border-radius: 10px;" height="35" /></a>&nbsp;&nbsp;<a href="https://tickzen.in.net/"><img src="https://img.shields.io/badge/Live-10B981?style=flat-square&logo=google-chrome&logoColor=white" style="border-radius: 10px;" height="35" /></a>
 
 </td>
 <td width="40%" valign="top" align="center">
@@ -109,7 +109,7 @@ _Building scalable infrastructure, intelligent systems, and impactful products._
 | **Deployment**  | Deployed on Railway via GitHub Actions CI/CD                                 |
 | **Roles**       | Patient · Mentor · Doctor ecosystem                                          |
 
-<a href="https://github.com/PROTOX11/MedTrackFit"><img src="https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white" style="border-radius: 10px;" height="35" /></a>&nbsp;&nbsp;<a href="https://medtrackfit.in.net"><img src="https://img.shields.io/badge/Live-10B981?style=flat-square&logo=google-chrome&logoColor=white" style="border-radius: 10px;" height="35" /></a>
+<a href="https://github.com/prakashkr2894/MedTrackFit"><img src="https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white" style="border-radius: 10px;" height="35" /></a>&nbsp;&nbsp;<a href="https://medtrackfit.in.net"><img src="https://img.shields.io/badge/Live-10B981?style=flat-square&logo=google-chrome&logoColor=white" style="border-radius: 10px;" height="35" /></a>
 
 </td>
 <td width="40%" valign="top" align="center">
@@ -135,7 +135,7 @@ _Building scalable infrastructure, intelligent systems, and impactful products._
 | **Hosting** | VPS (via PM2)                                    |
 | **CI/CD**   | GitHub Actions automated deployment to internet  |
 
-<a href="https://github.com/PROTOX11/VARTALAP"><img src="https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white" style="border-radius: 10px;" height="35" /></a>&nbsp;&nbsp;<a href="https://vartalap.in.net"><img src="https://img.shields.io/badge/Live-10B981?style=flat-square&logo=google-chrome&logoColor=white" style="border-radius: 10px;" height="35" /></a>
+<a href="https://github.com/prakashkr2894/VARTALAP"><img src="https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white" style="border-radius: 10px;" height="35" /></a>&nbsp;&nbsp;<a href="https://vartalap.in.net"><img src="https://img.shields.io/badge/Live-10B981?style=flat-square&logo=google-chrome&logoColor=white" style="border-radius: 10px;" height="35" /></a>
 
 </td>
 <td width="40%" valign="top" align="center">
@@ -161,7 +161,7 @@ _Building scalable infrastructure, intelligent systems, and impactful products._
 | **Design**     | Luxury glassmorphism UI with premium aesthetics |
 | **Hosting**      | VPS                                             |
 
-<a href="https://github.com/PROTOX11/Aura-Elysian"><img src="https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white" style="border-radius: 10px;" height="35" /></a>&nbsp;&nbsp;<a href="https://auraelysian.shop"><img src="https://img.shields.io/badge/Live-10B981?style=flat-square&logo=google-chrome&logoColor=white" style="border-radius: 10px;" height="35" /></a>
+<a href="https://github.com/prakashkr2894/Aura-Elysian"><img src="https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white" style="border-radius: 10px;" height="35" /></a>&nbsp;&nbsp;<a href="https://auraelysian.shop"><img src="https://img.shields.io/badge/Live-10B981?style=flat-square&logo=google-chrome&logoColor=white" style="border-radius: 10px;" height="35" /></a>
 
 </td>
 <td width="40%" valign="top" align="center">
@@ -234,6 +234,6 @@ _Building scalable infrastructure, intelligent systems, and impactful products._
 
 _"Building scalable software, intelligent systems, and impactful products."_
 
-![Profile views](https://komarev.com/ghpvc/?username=PROTOX11&color=58a6ff&style=flat-square&label=Profile+Views)
+![Profile views](https://komarev.com/ghpvc/?username=prakashkr2894&color=58a6ff&style=flat-square&label=Profile+Views)
 
 </div>

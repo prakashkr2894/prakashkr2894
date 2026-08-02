@@ -28,7 +28,7 @@ jobs:
       - name: Generate Pac-Man SVGs
         env:
           GITHUB_TOKEN: ${{ secrets.MY_GITHUB_TOKEN }}
-          GITHUB_USERNAME: PROTOX11
+          GITHUB_USERNAME: prakashkr2894
         run: python generate_pacman.py
 
       - name: Commit and push SVGs
