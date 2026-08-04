@@ -503,7 +503,7 @@
 <rect x="718" y="56" width="11" height="11" rx="2" fill="#161b22"/>
 <rect x="732" y="56" width="11" height="11" rx="2" fill="#00ff7f" filter="url(#glow)"/>
 <rect x="746" y="56" width="11" height="11" rx="2" fill="#00ff7f" filter="url(#glow)"/>
-<rect x="760" y="56" width="11" height="11" rx="2" fill="#161b22"/>
+<rect x="760" y="56" width="11" height="11" rx="2" fill="#00ff7f" filter="url(#glow)"/>
 <rect x="32" y="70" width="11" height="11" rx="2" fill="#161b22"/>
 <rect x="46" y="70" width="11" height="11" rx="2" fill="#161b22"/>
 <rect x="60" y="70" width="11" height="11" rx="2" fill="#00ff7f" filter="url(#glow)"/>
